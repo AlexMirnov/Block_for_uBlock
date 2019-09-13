@@ -1,0 +1,26 @@
+[block smotret-anime-365.ru]
+! Title: block smotret-anime-365.ru
+! Author: Alex_Mirnov
+! Version: 1.0
+!
+! ----- block smotret-anime-365.ru ------------------------------------------------------------------------------------------------------------------- !
+||s.ytimg.com^$important
+||onesignal.com/api/v1/sync/cf43c31a-5690-4110-bd51-0b7c4b9fee47/web?callback=__jp0$script,domain=smotret-anime-365.ru,important
+||www.youtube.com^$domain=anime-365.ru,important
+@@||smotret-anime-365.ru/translations/embed/1486752$inline-script,first-party
+@@||smotret-anime-365.ru/translations/embed/1486752$csp,first-party
+@@||smotret-anime-365.ru/catalog/redi-x-bato-895/2-seriya-55209/ozvuchka-1486752$inline-script,first-party
+@@||smotret-anime-365.ru/catalog/redi-x-bato-895/2-seriya-55209/ozvuchka-1486752$csp,first-party
+smotret-anime-365.ru##.clearfix.card-content
+smotret-anime-365.ru##.col-even.l9.m8.s12.col > div.card:nth-of-type(2) > .card-content
+smotret-anime-365.ru###comments
+smotret-anime-365.ru##.m-block-title.card
+smotret-anime-365.ru##.slick-track
+smotret-anime-365.ru##.m-translation-view-meta.card-content
+smotret-anime-365.ru##.col-even.l3.m4.s12.col > div.card:nth-of-type(3) > .card-content
+smotret-anime-365.ru##.col-even.l3.m4.s12.col > div.card:nth-of-type(2) > .card-content
+@@||smotret-anime-365.ru/catalog/redi-x-bato-895/2-seriya-55209/ozvuchka-637622$csp,first-party
+@@||smotret-anime-365.ru/translations/embed/637622$inline-script,first-party
+@@||smotret-anime-365.ru/catalog/redi-x-bato-895/2-seriya-55209/ozvuchka-637622$inline-script,first-party
+@@||smotret-anime-365.ru/translations/embed/637622$first-party
+||point.quantum-phantom-moon.ru^$media,domain=smotret-anime-365.ru,important
