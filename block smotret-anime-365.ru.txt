@@ -2,7 +2,12 @@
 ! Title: block smotret-anime-365.ru
 ! Author: Alex_Mirnov
 ! Version: 1.0
+! Expires: 4 days
+! Licence: https://github.com/AlexMirnov/Block_for_uBlock/blob/master/LICENSE
+! Homepage: https://github.com/AlexMirnov/Block_for_uBlock
 !
+! GitHub issues: https://github.com/AlexMirnov/Block_for_uBlock/issues
+! GitHub pull requests: https://github.com/AlexMirnov/Block_for_uBlock/pulls
 ! ----- block smotret-anime-365.ru ------------------------------------------------------------------------------------------------------------------- !
 ||s.ytimg.com^$important
 ||onesignal.com/api/v1/sync/cf43c31a-5690-4110-bd51-0b7c4b9fee47/web?callback=__jp0$script,domain=smotret-anime-365.ru,important
